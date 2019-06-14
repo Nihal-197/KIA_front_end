@@ -1,4 +1,4 @@
 ## KIA front-end 
 - A sample front end made with
-                             - JS
-                             - CSS
+1. JS
+2. Css
